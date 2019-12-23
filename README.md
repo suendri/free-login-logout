@@ -3,4 +3,4 @@
 
 Project sederhana bagaimana membuat Login, Logout dan Session menggunakan PHP. 
 
-![](screenshot.png)
+![](screenshot.jpg)
